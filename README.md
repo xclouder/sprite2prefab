@@ -1,0 +1,2 @@
+# sprite2prefab
+ugui里根据sprite生成prefab的工具
