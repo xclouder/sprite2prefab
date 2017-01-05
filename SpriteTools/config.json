@@ -1,0 +1,11 @@
+{
+	"version":1.0,
+	"tasks":[
+		{
+			"name":"装备",
+			"data_folder" : "XGame/Data/UI/EquipmentIcons",
+			"prefab_folder": "XGame/Resources/UI/Icons/EquipmentIcons"
+		}
+
+	]
+}
