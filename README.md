@@ -8,11 +8,12 @@ clone https://github.com/xclouder/sprite2prefab.git SpriteTools
 2)修改SpriteTools/config
 ```
 {
-  "tasks":
+  "tasks":[
   {
     "data_folder": "Assets的相对目录",
     "prefab_folder": "Assets的相对目录"
   }
+  ]
 }
 ```
 
